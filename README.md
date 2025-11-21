@@ -53,6 +53,9 @@ O projeto foi desenvolvido em C++ utilizando a plataforma Arduino.
     * `Keypad`
     * `DHT sensor library`
 
+## 📼 Assitea o video no Youtube
+Acesse o video: https://youtu.be/hAQH3jOOA5w
+
 ## 🌍 Conexão com ODS (ONU)
 Este projeto está alinhado com:
 * **ODS 3 (Saúde e Bem-Estar):** Previne doenças ocupacionais e estresse.
