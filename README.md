@@ -1,3 +1,2 @@
 # GS-Edge-Computinga
 
-teste
